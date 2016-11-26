@@ -5,37 +5,8 @@
   padding:0;
 }
 body {
-  /*font-size: 120%;*/
   background:#EFF7FF;
-  /*font-family: "Helvetica", Arial, sans-serif;*/
-
 }
-h1 {
-/*  font-size: 1.75em;
-  color:#ffffff;
-  margin-top:60px;*/
-}
-h2 {
-/*  font-size: 1.25em;
-  color:#333333;
-  text-align:center;
-  border:1px solid #000;
-  position:absolute;
-  top:0;
-  right:0;
-  padding:5px 10px;
-  width:200px;
-  margin: -1px -1px 0 0;*/
-}
-/*#chicken h2 {
-  background:#F7DCAD;
-}
-#beef h2 {
-  background:#FFAAEF;
-}
-#sushi h2 {
-  background:#BEEDB6;
-}*/
 
 p {
   clear:both;
@@ -54,20 +25,6 @@ section div{
   position:relative;
 }
 
-#sushi {
-  margin-bottom:100px;
-}
-
-.navbar {
-	/*background:#555555;*/
-
-}
-
-.navbar-inverse .navbar-collapse {
-    /*border-color: #dddddd;*/
-    /*background:#555555;*/
-}
-
 .navbar-inverse .navbar-nav > li {
     background-color: #2B2B2B;
 }
@@ -79,9 +36,7 @@ section div{
 }
 
 .navbar-inverse .navbar-nav > li > a:focus,  .navbar-inverse .navbar-nav > li > a:hover{
-
     background-color: #555555;
-
 }
 
 .navbar {
